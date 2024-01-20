@@ -1,2 +1,1 @@
-SQL BOLT 
-Queries Update
+Db Design - ER Diagram
