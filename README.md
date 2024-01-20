@@ -1,1 +1,1 @@
-Db Design - ER Diagram
+Db Design - EER Diagram
